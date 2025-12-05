@@ -1,46 +1,90 @@
-<p align="center">✨ Hi, I'm shecodesdev ✨</p>
-<p align="center"> <img src="https://i.imgur.com/yK0cZzj.png" width="750" alt="Banner"/> </p>
-<p align="center">💫 Python Developer | Data Scientist | ML Explorer</p>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:A020F0&height=150&section=header&text=🚀%20shecodesdev&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</h1>
 
-I build intelligent systems, automate workflows, visualize complex data, and design predictive models using Python and modern data science tooling.
+<h3 align="center">✨ Pythonist | Data Science Explorer | ML Builder | AI Dreamer ✨</h3>
 
-⚡ Tech Stack
-Core Languages
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" /> </p>
-Data Science & Machine Learning
-<p> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4C8CB5?logoColor=white" /> </p>
-Tools & Workflow
-<p> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" /> </p>
-🎨 Aesthetic Divider
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Turning+Data+into+Stories...;Coding+ML+Pipelines+in+Python...;Visualizing+the+Future+with+Neon+Insights...;Blending+Logic+%26+Creativity+with+AI" />
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🧬 Python developer focused on **Data Science**, **ML**, and **automation**
+- 📊 Working with **Pandas**, **NumPy**, **scikit-learn**, **Matplotlib**, **Seaborn**
+- 🧠 Exploring **machine learning**, **AI-powered apps**, and **smart dashboards**
+- 📈 Turning raw messy data into **clean, visual, insightful** stories
+- 🛰️ Learning **deep learning**, **MLOps basics**, and **pipeline automation**
+- 🌐 Portfolio: *Add your link here*
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-yourmail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+
+---
+
+## 🧰 Tech & Data Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,py,regex,sqlite,mysql,postgresql,git,github,vscode,linux,docker" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+```yaml
+Languages:          Python • SQL
+Data Wrangling:     Pandas • NumPy • Data Cleaning • Feature Engineering
+Machine Learning:   scikit-learn • Regression • Classification • Clustering
+Visualization:      Matplotlib • Seaborn • Plotly • Dashboards
+Workflow:           Jupyter • VS Code • Git • Virtual Environments
+Storage:            CSV • SQL Databases
+Concepts:           EDA • Model Evaluation • Hyperparameter Tuning
+Extras:             API Integration • Automation Scripts • Basic MLOps
+```
+🛰️ Futuristic Data Lab
 <p align="center"> <img src="https://i.imgur.com/Z8eK2z0.gif" width="400" /> </p>
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shecodesdev&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shecodesdev&layout=compact&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shecodesdev&theme=radical" width="70%" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shecodesdev&theme=dracula&margin-w=10" /> </p>
-🌐 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shecodesdev&theme=react-dark&hide_border=true" width="90%"> </p>
-🚀 Top Projects
-🔹 1. ML Classification Model
 
-A machine learning model built using Scikit-learn for predictive analytics.
-Tech: Python, Pandas, Numpy, Matplotlib, Scikit-learn
-→ View Repo
+A glowing lab where data transforms into insights and models learn in neon light.
 
-🔹 2. Data Visualization Dashboard
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shecodesdev&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shecodesdev&layout=compact&theme=tokyonight&hide_border=true" height="170px"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shecodesdev&theme=matrix&margin-w=10&no-bg=true&no-frame=true"/> </p>
+⏱️ WakaTime Coding Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shecodesdev&theme=tokyonight&hide_border=true"/> </p>
+🔗 Notebooks & Live Demos
+Project	Demo / Notebook Link	Tech Stack
+📊 Customer Churn EDA & ML	Coming soon…	Python, Pandas, Seaborn, scikit-learn
+🎬 Movie Recommendation Prototype	In Progress	Python, ML, Pandas
+⏱️ Time Series Forecasting	WIP Notebook	Pandas, Prophet / statsmodels
+📈 Interactive Dashboard	Planned	Streamlit, Plotly, Python
+🚀 Data Projects I'm Building
 
-A Python dashboard with dynamic charts and insights.
-Tech: Python, Seaborn, Matplotlib
-→ View Repo
+🌌 Neon Analytics Dashboard (Sci-fi themed analytics)
 
-🔹 3. Automation Script Suite
+🧠 ML Model Playground (Try models instantly)
 
-Python-based automated scripts for daily workflow tasks.
-Tech: Python, OS, Automation
-→ View Repo
+🛰️ Data Pipeline Prototype (Raw → Clean → Features → Model)
 
-💫 Fun Zone
-<p align="center"> <img src="https://i.imgur.com/VqKQmAy.gif" width="350" /> </p> <p align="center"> <img src="https://i.imgur.com/MPbJIrF.gif" width="350" /> </p>
-💬 Connect With Me
-<p align="center"> <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
-🎀 Thank You for Visiting My Profile
-<p align="center"> <img src="https://i.imgur.com/9YF4P2L.gif" width="300" /> </p>
+🤖 AI-Powered Insights Bot (Dataset Q&A automation)
+
+⚡ Fun Fact
+
+I design futuristic dashboards that look like control panels from a sci-fi starship.
+
+🛸 Let’s Collaborate
+
+📊 Deep Exploratory Data Analysis
+
+🤖 ML Model Building
+
+⚙️ Automation & Python Utilities
+
+🌌 Sci-fi themed Data Dashboards
+
+<p align="center"> 🖤 Crafted in neon mode by <strong><a href="https://github.com/shecodesdev">shecodesdev</a></strong> </p> ```
